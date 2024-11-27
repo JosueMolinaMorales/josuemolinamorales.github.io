@@ -6,68 +6,77 @@ section:
   weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
-  # hideTitle: true 
-
-# Your experiences
+  # hideTitle: true
 experiences:
-- company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    logo: /images/sections/experiences/company1.jpg
-    # Can optionally show a different logo for dark theme
-    # darklogo: /images/sections/experiences/company1.jpg
-    # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
-  positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+  - company:
+      name: T. Rowe Price
+      url: "https://www.troweprice.com/"
+      location: Owings Mills, MD
+      logo: /images/sections/experiences/troweprice.png
+      overview: T. Rowe Price is a global investment management firm focused on delivering trusted investment solutions.
+    positions:
+      - designation: Associate Software Engineer
+        start: July 2024
+        responsibilities:
+          - Maintain and enhance over five internal applications, supporting 900+ associates in daily client operations.
+          - Collaborate in agile teams, participating in stand-ups, retrospectives, and sprint planning to meet business goals.
+          - Communicate complex technical solutions effectively to stakeholders and colleagues for better alignment and delivery.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+      - designation: Software Engineer Intern
+        start: May 2023
+        end: July 2024
+        responsibilities:
+          - Contributed to the development and maintenance of applications used by internal teams.
+          - Ensured code quality and functionality through rigorous testing and debugging.
+          - Gained hands-on experience in agile methodologies and cloud-native development.
 
-- company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
-    # Can optionally show a different logo for dark theme
-    # darklogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+  - company:
+      name: SecurEd Inc.
+      url: "https://secured.team/"
+      location: Towson, MD
+      logo: /images/sections/experiences/secured.png
+      overview: SecurEd Inc. specializes in cybersecurity education platforms, offering tools and resources to thousands of users.
+    positions:
+      - designation: Software Architect
+        start: August 2023
+        end: May 2024
+        responsibilities:
+          - Designed and implemented architectural solutions to improve the scalability and performance of the CLARK and CARD platforms.
+          - Provided technical leadership and mentorship to development teams.
+          - Spearheaded the integration of new microservices to enhance platform functionality and user experience.
 
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
-    # Can optionally show a different logo for dark theme
-    # darklogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+      - designation: Software Developer
+        start: November 2021
+        end: August 2023
+        responsibilities:
+          - Developed and maintained features for CLARK, a cybersecurity curriculum repository with 10,000+ registered users.
+          - Built enhancements for CARD, a resource directory serving over 100 users.
+          - Led and supported teams in deploying weekly features and patches to AWS for 15+ microservices.
+
+  - company:
+      name: Towson University Software Engineering Club
+      url: "https://www.towson.edu/"
+      location: Towson, MD
+      logo: /images/sections/experiences/towson.png
+      overview: A student-led club focused on preparing students for careers in software engineering through workshops and panels.
+    positions:
+      - designation: Vice President
+        start: November 2022
+        end: May 2023
+        responsibilities:
+          - Planned and led workshops, meetings, and panels to support students in pursuing software engineering careers.
+          - Facilitated events that connected students with industry professionals and technical resources.
+
+  - company:
+      name: Anne Arundel Community College
+      url: "https://www.aacc.edu/"
+      location: Arnold, MD
+      logo: /images/sections/experiences/aacc.png
+      overview: Anne Arundel Community College provides educational and professional growth opportunities for students.
+    positions:
+      - designation: Academic Integrity Review Committee Member
+        start: September 2020
+        end: August 2021
+        responsibilities:
+          - Participated in 20 hearings for academic dishonesty cases.
+          - Reviewed violations and collaborated with committee members on final decisions.
